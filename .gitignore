@@ -1,0 +1,6 @@
+*/.DS_Store
+.DS_Store
+.idea
+data/mp3_2/*
+data/audio/*
+code/*.pyc
